@@ -1,16 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-Total Time: 40 mins
+Total Time: 1 hr 27 mins
 
-JavaScript       12 mins         >>>>>>>>-----------------   30.84 %
-C                8 mins          >>>>>--------------------   20.94 %
-GitIgnore file   7 mins          >>>>>--------------------   18.92 %
-TypeScript       6 mins          >>>>---------------------   15.28 %
-HTML             5 mins          >>>----------------------   13.52 %
-CSS              0 secs          -------------------------   00.49 %
+Java             37 mins         >>>>>>>>>>>--------------   42.43 %
+TypeScript       16 mins         >>>>>--------------------   18.38 %
+JavaScript       12 mins         >>>>---------------------   14.27 %
+C                8 mins          >>-----------------------   09.69 %
+GitIgnore file   7 mins          >>-----------------------   08.75 %
+HTML             5 mins          >>-----------------------   06.26 %
+CSS              0 secs          -------------------------   00.23 %
 Ezhil            0 secs          -------------------------   00.00 %
 ```
 
