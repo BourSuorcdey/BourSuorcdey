@@ -1,20 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 August 2023 - To: 17 October 2023
+From: 14 August 2023 - To: 18 October 2023
 
-Total Time: 38 hrs 47 mins
+Total Time: 39 hrs 54 mins
 
-Java                  30 hrs 40 mins  >>>>>>>>>>>>>>>>>>>>-----   79.06 %
-XML                   3 hrs 29 mins   >>-----------------------   09.02 %
-HTML                  2 hrs 7 mins    >------------------------   05.46 %
-HTTP Request          1 hr 3 mins     >------------------------   02.74 %
-TypeScript            16 mins         -------------------------   00.69 %
-Java Properties       14 mins         -------------------------   00.62 %
-JavaScript            12 mins         -------------------------   00.54 %
-GitIgnore file        10 mins         -------------------------   00.46 %
-ActionScript          9 mins          -------------------------   00.39 %
-C                     8 mins          -------------------------   00.36 %
+Java                  30 hrs 40 mins  >>>>>>>>>>>>>>>>>>>------   76.86 %
+XML                   3 hrs 57 mins   >>-----------------------   09.91 %
+HTML                  2 hrs 7 mins    >------------------------   05.31 %
+HTTP Request          1 hr 3 mins     >------------------------   02.66 %
+Kotlin                39 mins         -------------------------   01.65 %
+TypeScript            16 mins         -------------------------   00.67 %
+Java Properties       14 mins         -------------------------   00.60 %
+JavaScript            12 mins         -------------------------   00.52 %
+GitIgnore file        10 mins         -------------------------   00.45 %
+ActionScript          9 mins          -------------------------   00.38 %
 ```
 
 <!--END_SECTION:waka-->
