@@ -1,20 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 August 2023 - To: 15 November 2023
+From: 14 August 2023 - To: 21 November 2023
 
-Total Time: 94 hrs 11 mins
+Total Time: 97 hrs 3 mins
 
-Java                  61 hrs 15 mins  >>>>>>>>>>>>>>>>---------   65.03 %
-XML                   16 hrs 49 mins  >>>>---------------------   17.86 %
-HTML                  5 hrs 18 mins   >------------------------   05.63 %
-Kotlin                3 hrs 50 mins   >------------------------   04.08 %
-Groovy                1 hr 10 mins    -------------------------   01.24 %
-CSS                   1 hr 7 mins     -------------------------   01.20 %
-HTTP Request          1 hr 3 mins     -------------------------   01.13 %
-Java Properties       45 mins         -------------------------   00.81 %
-Gradle                32 mins         -------------------------   00.57 %
-Properties            19 mins         -------------------------   00.34 %
+Java                  63 hrs 53 mins  >>>>>>>>>>>>>>>>---------   65.82 %
+XML                   16 hrs 51 mins  >>>>---------------------   17.37 %
+HTML                  5 hrs 18 mins   >------------------------   05.47 %
+Kotlin                3 hrs 50 mins   >------------------------   03.96 %
+Groovy                1 hr 13 mins    -------------------------   01.26 %
+CSS                   1 hr 7 mins     -------------------------   01.17 %
+HTTP Request          1 hr 3 mins     -------------------------   01.09 %
+Java Properties       48 mins         -------------------------   00.83 %
+Gradle                38 mins         -------------------------   00.66 %
+Properties            19 mins         -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
