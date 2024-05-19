@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 August 2023 - To: 16 May 2024
+From: 14 August 2023 - To: 17 May 2024
 
-Total Time: 180 hrs 25 mins
+Total Time: 180 hrs 27 mins
 
-Java                  127 hrs 20 mins >>>>>>>>>>>>>>>>>>-------   70.49 %
-XML                   17 hrs 18 mins  >>-----------------------   09.58 %
+Java                  127 hrs 20 mins >>>>>>>>>>>>>>>>>>-------   70.48 %
+XML                   17 hrs 20 mins  >>-----------------------   09.60 %
 HTML                  13 hrs 18 mins  >>-----------------------   07.36 %
 CSS                   5 hrs 6 mins    >------------------------   02.82 %
 Kotlin                3 hrs 50 mins   >------------------------   02.13 %
